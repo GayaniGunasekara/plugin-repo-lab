@@ -1,4 +1,10 @@
-{
-  "name": "Conflicting Plugin",
-  "entry": "./plugins/conflict-plugin/plugin.js"
-}
+[
+  {
+    "name": "Conflicting Plugin",
+    "entry": "./plugins/conflict-plugin/plugin.js"
+  },
+  {
+    "name": "Gayani Gunasekara Plugin",
+    "entry": "./plugins/GayaniGunasekara-plugin/plugin.js"
+  }
+]
