@@ -3,4 +3,9 @@
     "name": "Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
   }
+  ,
+  {
+    "name": "Gayani Gunasekara Plugin",
+    "entry": "./plugins/GayaniGunasekara-plugin/plugin.js"
+  }
 ]
